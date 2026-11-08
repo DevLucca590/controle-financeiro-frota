@@ -2,6 +2,10 @@
 
 Sistema de controle financeiro para empresas de transporte, que funciona direto no computador, **sem internet** e sem mensalidade de nuvem. Registre os lançamentos do dia, veja o lucro de cada caminhão e gere relatórios em PDF e Excel.
 
+## Como foi feito
+
+Desenvolvido por Lucas Custódio Firmes com auxílio do Claude, da Anthropic.
+
 *Fleet finance control for trucking companies. Runs on your own computer, offline.*
 
 ## O que ele faz
